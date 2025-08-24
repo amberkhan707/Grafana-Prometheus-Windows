@@ -4,8 +4,7 @@ Easily install and configure **Grafana + Prometheus** on **Windows Server / Wind
 
 - ✅ **Windows Exporter / WMI Exporter** (System metrics: CPU, Memory, Disk, Network, Services)  
 - ✅ **Python Exporter** (Custom metrics)  
-- ✅ **Redis Exporter** (Redis monitoring)  
-- ✅ Pre-built **Grafana Dashboards** for Node Exporter & Process Exporter  
+- ✅ **Redis Exporter** (Redis monitoring)    
 
 This repository contains all required files and instructions to set up a complete **Windows Monitoring Stack** with **Grafana + Prometheus**.  
 
@@ -133,7 +132,4 @@ Open: [http://localhost:9121](http://localhost:9121)
 --- 
 
 ---
-
-## 🔑 Keywords (SEO Optimized)  
-
 Grafana Windows installation, Prometheus Windows setup, Grafana Prometheus Windows monitoring, Windows Exporter WMI, Redis Exporter Windows, Python Exporter, Grafana Dashboard Import, Windows Server monitoring Grafana, Prometheus exporters Windows, Node Exporter alternative Windows.  
