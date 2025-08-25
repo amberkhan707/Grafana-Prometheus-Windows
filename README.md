@@ -1,3 +1,7 @@
+<img width="1891" height="955" alt="DashboardImage1" src="https://github.com/user-attachments/assets/77737666-af89-4175-9206-4dfd95977783" />
+<img width="1906" height="903" alt="DashboardImage2" src="https://github.com/user-attachments/assets/d94d5835-2b46-4a4d-b394-f8c2b8ace14e" />
+
+
 # Grafana & Prometheus Monitoring Setup on Windows  
 
 Easily install and configure **Grafana + Prometheus** on **Windows Server / Windows 10/11**, with support for:  
